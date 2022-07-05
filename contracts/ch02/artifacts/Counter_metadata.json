@@ -71,7 +71,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/Counter.sol": "Counter"
+			"contracts/ch02/Counter.sol": "Counter"
 		},
 		"evmVersion": "london",
 		"libraries": {},
@@ -85,7 +85,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/Counter.sol": {
+		"contracts/ch02/Counter.sol": {
 			"keccak256": "0x1c37af6fccdcb82452a8e22c0b802c41b89adb831567c0c339f1d31f03603d75",
 			"urls": [
 				"bzz-raw://0838bceaa6274aff7852491f5e48fd321b5e0cf823a5ddba789077fe99983156",
