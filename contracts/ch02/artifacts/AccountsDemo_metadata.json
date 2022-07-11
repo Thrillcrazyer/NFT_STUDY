@@ -80,10 +80,10 @@
 	},
 	"sources": {
 		"contracts/ch02/AccountsDemo.sol": {
-			"keccak256": "0xb9ce227e4032d6a3d5ddaa2da181df66287b1a4a8d43c3c86673a2122f787c7d",
+			"keccak256": "0x273fcb9535342c49d31fc775e821baa57b925bf9281c172a873762fe0df189c7",
 			"urls": [
-				"bzz-raw://5adfeab2518eef64d711a77c8ffced9d3cdf2ba9da6083a33fd0c042eb311336",
-				"dweb:/ipfs/QmWRqEqPjkA3j9361eUJDgnw9yG4bDSFKUBDDFRzPuX4yf"
+				"bzz-raw://4483549c4392334218d8ba0b89f696ae4e7f6ee55d5c23e1c760453ea126e47c",
+				"dweb:/ipfs/QmPePt99iYKCBGCw5PCcCVPApuNSNyG4UsF4eDToGi7Dqq"
 			]
 		}
 	},

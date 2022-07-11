@@ -1,0 +1,58 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "state",
+				"outputs": [
+					{
+						"internalType": "enum BallotV1.Phase",
+						"name": "",
+						"type": "uint8"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/ch03/BallotV1.sol": "BallotV1"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/ch03/BallotV1.sol": {
+			"keccak256": "0xed6428043f6bbe38b408bdab9e4b9f40c96d1c99d0501b84bd85c333cfef2600",
+			"urls": [
+				"bzz-raw://e8d76e20f8be735c1151745ac567d76415586dc32d03e2f2612e0de3d860a239",
+				"dweb:/ipfs/Qmeo2v8m45575vJ3yE77DYPzCU2sZ7UNvWQ1yL8yfT1s1M"
+			]
+		}
+	},
+	"version": 1
+}
